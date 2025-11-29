@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int a = 5;
+int d = 3;
+cout << a << " ";
+for (int i = 1; i < 3; i++) {
+    a = a + d;
+    cout << a << " ";
+}
+
+}
+
+//5 8 11

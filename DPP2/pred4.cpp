@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main(){
+    for (int i = 2; i <= 6; i += 2) {
+    cout << i << " ";
+}
+
+
+}
+//output:- 2 4 6
